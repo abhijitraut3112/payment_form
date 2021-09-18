@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    fornt font-family: verdana, geneva, tahoma, sans-serif ;
+    margin: 15px,30px;
+    font-size 15px,30px,:;
+    padding: 8px;
+
+}
+.container{
+    background-color: #f2f2f2;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+} 
+input[type="test"],
+input[type="email"],
+input[type="number"],
+input[type="passward"],
+input[type="date"], 
+select,
+test area {
+    width: 100;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+fieldset{
+    background-color: #f2f2f2;
+    border: #ccc;
+}
